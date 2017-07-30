@@ -1,0 +1,2 @@
+# GoBlackjack
+Blackjack, in go
